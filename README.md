@@ -28,10 +28,12 @@ This project presents an interactive Finance Analysis Dashboard built using Powe
 ## 📷 Dashboard Preview
 
 ### Overview
-![Overview]("C:\Users\YAMUNA\Downloads\PowerBi\Finance Analysis DashBoard\Images\Screenshot 2026-07-16 114116.png")
+![Overview]("<img width="1547" height="831" alt="Screenshot 2026-07-16 114116" src="https://github.com/user-attachments/assets/d901d563-2707-4571-9e08-ef713a1601d2" />
+")
 
 ### Transactions
-![Transactions]("C:\Users\YAMUNA\Downloads\PowerBi\Finance Analysis DashBoard\Images\Screenshot 2026-07-16 114139.png")
+![Transactions]("<img width="1542" height="826" alt="Screenshot 2026-07-16 114139" src="https://github.com/user-attachments/assets/b3e30ffa-eb1d-42ff-8489-20556d706deb" />
+")
 
 ## 📂 Files Included
 - Finance Analysis.pbix
